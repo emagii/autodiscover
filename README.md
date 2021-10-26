@@ -1,9 +1,8 @@
 # autodiscover
-Generates a valid autodiscover.xml for mail clients.
-/Marint
-This is a reformatted https://github.com/Radiergummi/php-autodiscover,
+Moritz Friedrich: Generates a valid autodiscover.xml for mail clients.
+
+eMagii: This is a reformatted https://github.com/Radiergummi/php-autodiscover,
 simply so you can clone it, or unpack it in the webserver.
-/Ulf
 
 > **Note:** I've written this years ago. The PHP code isn't exactly up to standards anymore; while everything still works, I'm soon™ going to bring the project up to date and publish it as a composer package.
 
